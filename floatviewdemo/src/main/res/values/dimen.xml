@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="statusbar_default_height">25dp</dimen><!--    状态栏默认高度-->
+</resources>
